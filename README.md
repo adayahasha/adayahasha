@@ -42,8 +42,5 @@ $whoami   Adayah
 #
 #
 
-Proficient in [Terraform](https://github.com/adayahasha/AWS-Terraform-Project), [Kubernetes](https://github.com/adayahasha/yaml-kubernetes), [Linux](https://github.com/adayahasha/shell-scripting-demos), [Python](https://github.com/adayahasha/ccp_quiz_project), and [Bash scripting](https://github.com/adayahasha/shell-scripting-demos).
-
-
 
 ![Built with Love](http://ForTheBadge.com/images/badges/built-with-love.svg)
