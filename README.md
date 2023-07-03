@@ -13,7 +13,7 @@ $whoami   Adayah
 - Junior Cloud Engineer
 - Proficient in AWS Services
 - Certifications in AWS Associate Solutions Architect, AWS SysOps Administrator, and AWS Developer
-- Proficient in Terraform, Kubernetes, Linux, Git, Python, and Bash scripting
+- Proficient in [Terraform](https://github.com/adayahasha/AWS-Terraform-Project), [Kubernetes](https://github.com/adayahasha/yaml-kubernetes), [Linux](https://github.com/adayahasha/shell-scripting-demos), [Python](https://github.com/adayahasha/ccp_quiz_project), and [Bash scripting](https://github.com/adayahasha/shell-scripting-demos)
 - Focus on designing scalable and reliable cloud solutions
 - Experience in architecting, deploying, and managing cloud resources
 - Familiar with infrastructure provisioning and management using Terraform
@@ -42,6 +42,7 @@ $whoami   Adayah
 #
 #
 
+Proficient in [Terraform](https://github.com/adayahasha/AWS-Terraform-Project), [Kubernetes](https://github.com/adayahasha/yaml-kubernetes), [Linux](https://github.com/adayahasha/shell-scripting-demos), [Python](https://github.com/adayahasha/ccp_quiz_project), and [Bash scripting](https://github.com/adayahasha/shell-scripting-demos).
 
 
 
