@@ -1,9 +1,5 @@
 # Hello 👋🏽 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tonya-jackson-adayah-cloud-engineer/)   [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@adayahasha)
-[![AWS Certified Solutions Architect - Associate](https://img.shields.io/badge/AWS%20Certified-Solutions%20Architect%20Associate-orange?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/certification/certified-solutions-architect-associate/)
-[![AWS Certified SysOps Administrator - Associate](https://img.shields.io/badge/AWS%20Certified-SysOps%20Administrator%20Associate-yellow?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/certification/certified-sysops-admin-associate/)
-[![AWS Certified Developer - Associate](https://img.shields.io/badge/AWS%20Certified-Developer%20Associate-blue?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/certification/certified-developer-associate/)
-
 
 
 # 🌹 About Me 
@@ -24,6 +20,13 @@ $whoami   Adayah
 - Collaborative team player
 - Dedicated to staying updated with the latest advancements in cloud computing
 - Goal-oriented to contribute to the advancement of cloud technologies and digital transformation in the industry.
+
+[![AWS Certified Solutions Architect - Associate](https://img.shields.io/badge/AWS%20Certified-Solutions%20Architect%20Associate-orange?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/certification/certified-solutions-architect-associate/)
+[![AWS Certified SysOps Administrator - Associate](https://img.shields.io/badge/AWS%20Certified-SysOps%20Administrator%20Associate-yellow?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/certification/certified-sysops-admin-associate/)
+[![AWS Certified Developer - Associate](https://img.shields.io/badge/AWS%20Certified-Developer%20Associate-blue?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/certification/certified-developer-associate/)
+
+#
+#
 
 [![AWS](https://img.shields.io/badge/-AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)
 [![AWS EC2](https://img.shields.io/badge/-AWS%20EC2-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/ec2/)
