@@ -8,7 +8,6 @@ $whoami   Adayah
 # ✨ Cloud Computing Student at Western Governors University
 - Junior Cloud Engineer
 - Proficient in AWS Services
-- [KodeKloud Apprenticeship Projects](https://kodekloud-engineer.com/#!/user_profile?uid=16879057222702196)
 - Certifications in AWS Associate Solutions Architect, AWS SysOps Administrator, and AWS Developer
 - Proficient in [Terraform](https://github.com/adayahasha/AWS-Terraform-Project), [Kubernetes](https://github.com/adayahasha/yaml-kubernetes), [Linux](https://github.com/adayahasha/shell-scripting-demos), [Python](https://github.com/adayahasha/ccp_quiz_project), and [Bash scripting](https://github.com/adayahasha/shell-scripting-demos)
 - Focus on designing scalable and reliable cloud solutions
