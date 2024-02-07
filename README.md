@@ -1,12 +1,11 @@
 # Hello 👋🏽 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tonya-jackson-adayah-cloud-engineer/)   [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@adayahasha)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adayahasha/)   [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@adayahasha)
 
 
 # 🌹 About Me 
 $whoami   Adayah
 
-# ✨ Cloud Computing Student at Western Governors University
-- Junior Cloud Engineer
+# ✨ Data Scientist | Data Analyst | ML Researcher
 - Proficient in AWS Services
 - Certifications in AWS Associate Solutions Architect, AWS SysOps Administrator, and AWS Developer
 - Proficient in [Terraform](https://github.com/adayahasha/AWS-Terraform-Project), [Kubernetes](https://github.com/adayahasha/yaml-kubernetes), [Linux](https://github.com/adayahasha/shell-scripting-demos), [Python](https://github.com/adayahasha/ccp_quiz_project), and [Bash scripting](https://github.com/adayahasha/shell-scripting-demos)
